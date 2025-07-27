@@ -1,8 +1,6 @@
 from .app import start_app
 from .db.db import init_db
 
-# from git_package import start_app, init_db
-
 
 def start_dev() -> int:
     print("starting the server...")
