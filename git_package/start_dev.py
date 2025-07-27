@@ -1,4 +1,4 @@
-from app import start_app
+from git_package.app import start_app
 
 
 def start_dev() -> int:
