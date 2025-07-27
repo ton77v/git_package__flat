@@ -1,5 +1,5 @@
-from .app import start_app
-from .db.db import init_db
+from app import start_app
+from db.db import init_db
 
 
 def start_dev() -> int:
